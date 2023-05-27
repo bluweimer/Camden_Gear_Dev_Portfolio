@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Camden_Gear_Dev_Portfolio.iml" filepath="$PROJECT_DIR$/.idea/Camden_Gear_Dev_Portfolio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Camden_Gear_Dev_Portfolio_Back_End/Camden_Gear_Dev_Portfolio_Back_End.iml" filepath="$PROJECT_DIR$/Camden_Gear_Dev_Portfolio_Back_End/Camden_Gear_Dev_Portfolio_Back_End.iml" />
     </modules>
   </component>
 </project>
